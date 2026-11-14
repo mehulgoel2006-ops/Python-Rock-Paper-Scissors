@@ -1,6 +1,6 @@
 
 import random
-
+print("Welcome to Rock Paper Scissors!")
 choices = ["rock", "paper", "scissors"]
 
 user_score = 0
